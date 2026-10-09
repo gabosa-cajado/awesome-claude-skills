@@ -234,6 +234,7 @@
 - [sequenzy-email-marketing](https://clawhub.ai/polnikale/sequenzy-email-marketing) - Operate Sequenzy email marketing workflows for subscribers, campaigns, sequences, and templates.
 - [TweetClaw](https://github.com/Xquik-dev/tweetclaw) - X/Twitter automation skill for search, posting, follower export, monitors, webhooks, and giveaways.
 - [browser-search](https://github.com/Johell1NS/browser-search) - Web search and browsing skill for AI agents with multi-engine search and stealth browsing.
+- [skills-cajado](https://github.com/gabosa-cajado/skills-cajado) - Two Claude Code skills: skill-trimmer audits installed skills, plugins and MCP connectors against real usage in your transcripts and proposes what to archive, disable, merge or trim, with the reason and the token savings; skill-router keeps a routing table of which skill to use for each kind of task when several compete.
 
 ## 📰 Articles & Blog Posts
 
